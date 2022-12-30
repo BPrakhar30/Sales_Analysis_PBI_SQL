@@ -1,6 +1,6 @@
 # Sales_Analysis_PBI_SQL
 
-<img width="808" alt="image" src="https://user-images.githubusercontent.com/117214117/210046162-00fc105d-4070-4bb5-b9b1-0138535751fa.png">
+<img width="767" alt="image" src="https://user-images.githubusercontent.com/117214117/210046276-4b452ec6-50b1-4db4-b4fe-185dc0b75aae.png">
 
 <img width="787" alt="image" src="https://user-images.githubusercontent.com/117214117/210046210-5c8ef614-b1d1-4fe8-9ea6-de617820fc6a.png">
 
